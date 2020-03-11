@@ -14,6 +14,6 @@ public class HomePage {
         Assert.assertEquals(title, "Kwidos");
 
         driver.quit();
-
+    @Test
     }
 }
